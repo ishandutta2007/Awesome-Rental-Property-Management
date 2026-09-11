@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Buildium](https://www.buildium.com/)**  
-
-  Popular residential property management platform with strong accounting, leasing, tenant portals, and scalable plans for growing portfolios.
-
-
-
-- **[AppFolio](https://www.appfolio.com/)**  
-
-  Feature-rich, AI-enhanced property management platform favored by professional managers for automation, marketing, and operations.
-
-
-
-- **[Rentec Direct](https://www.rentecdirect.com/)**  
-
-  Comprehensive property management software focused on residential portfolios with solid accounting and tenant management tools.
-
-
-
-- **[Hemlane](https://www.hemlane.com/)**  
-
-  Property management platform that combines software with optional full-service management support for landlords.
-
-
-
-- **[DoorLoop](https://www.doorloop.com/)**  
-
-  Modern all-in-one property management platform known for ease of use, transparent pricing, and strong mid-market features.
-
-
-
-- **[Avail (by Realtor.com)](https://www.avail.co/)**  
-
-  Landlord-focused platform offering listing, screening, rent collection, and lease tools, popular with smaller portfolios.
-
-
-
-- **[Yardi Breeze](https://www.yardi.com/products/yardi-breeze/)**  
-
-  Streamlined property management solution from Yardi aimed at smaller to mid-sized residential and mixed portfolios.
-
-
-
-- **[TenantCloud](https://www.tenantcloud.com/)**  
-
-  Cloud-based property management platform with free and paid tiers covering listings, screening, accounting, and maintenance.
-
-
-
-- **[Innago](https://innago.com/)**  
-
-  Free-to-use residential property management software focused on rent collection, leasing, and tenant communication.
-
-
-
-- **[Propertyware](https://www.propertyware.com/)**  
-
-  Property management platform especially strong for single-family and scattered-site residential portfolios.
+| Platform | Description / Focus | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Buildium](https://www.buildium.com/)** | Popular residential property management platform with strong accounting, leasing, tenant portals, and scalable plans for growing portfolios. | Starts at **$62/month** (Essential plan, covers up to 50 units; Growth from $192/mo, Premium from $400/mo) | **14-day free trial** with full access to platform features using sample or custom data (no credit card required; no free forever plan) |
+| **[AppFolio](https://www.appfolio.com/)** | Feature-rich, AI-enhanced property management platform favored by professional managers for automation, marketing, and operations. | Starts at **$1.49/unit/month** with a **$298/month minimum** fee (Core plan; Plus from $3.20/unit with $960/mo min; Max from $5.00/unit with $7,500/mo min) | No free forever plan or self-service free trial; offers **scheduled free guided live product demos** and consultation (requires minimum ~50 units for Core onboarding) |
+| **[Rentec Direct](https://www.rentecdirect.com/)** | Comprehensive property management software focused on residential portfolios with solid accounting and tenant management tools. | Starts at **$25/month** (Rentec Starter for ≤10 units; Rentec Pro from $45/mo, Rentec PM from $55/mo) | **14-day free trial** with full access to core features (no credit card required, no setup fees; no free forever plan) |
+| **[Hemlane](https://www.hemlane.com/)** | Property management platform that combines software with optional full-service management support for landlords. | **$0/month** (Starter) or starts at **$28/month base + $2/unit/month** (Basic plan; Essential is $28/mo base + $20/unit/mo) | **Free forever "Starter" plan** limited to 1 active property and 1 synced bank account (excludes rent collection & maintenance); **14-day free trial** for paid tiers |
+| **[DoorLoop](https://www.doorloop.com/)** | Modern all-in-one property management platform known for ease of use, transparent pricing, and strong mid-market features. | Starts at **$69/month** billed annually ($99/mo monthly, Starter plan for up to 20 units; +$1.50/unit thereafter; Pro from $139/mo) | No free forever plan or self-service free trial; offers **scheduled free personalized live product demos** and platform walkthroughs |
+| **[Avail (by Realtor.com)](https://www.avail.co/)** | Landlord-focused platform offering listing, screening, rent collection, and lease tools, popular with smaller portfolios. | **$0/month** (Unlimited plan); **$9/unit/month** (Unlimited Plus plan for waived tenant ACH fees, FastPay next-day rent, and custom leases) | **Free forever "Unlimited" plan** with unlimited units, listings syndication, standard leases, and maintenance tracking ($2.50 ACH fee per transaction paid by tenant) |
+| **[Yardi Breeze](https://www.yardi.com/products/yardi-breeze/)** | Streamlined property management solution from Yardi aimed at smaller to mid-sized residential and mixed portfolios. | Starts at **$1.00/unit/month** with a **$100/month minimum** fee (Breeze standard residential; Breeze Premier starts at $2.00/unit/mo with $400/mo min) | No free forever plan or self-service free trial; offers **scheduled free live personal demos** and free onboarding/implementation (requires $100/mo minimum commitment) |
+| **[TenantCloud](https://www.tenantcloud.com/)** | Cloud-based property management platform covering listings, screening, accounting, and maintenance. | Starts at **$15/month** billed annually ($18/mo monthly, Starter plan; Growth from $29/mo, Pro from $50/mo) | **14-day free trial** with full feature access across Starter, Growth, and Pro tiers (test with custom properties, no credit card required; no free forever plan) |
+| **[Innago](https://innago.com/)** | Free-to-use residential property management software focused on rent collection, leasing, and tenant communication. | **$0/month** platform fee for landlords (optional/tenant-paid fees: $2.00 per ACH rent payment or 2.99% per card transaction; $30–$35 tenant screening) | **Free forever plan** with unlimited units, properties, tenants, digital leases, and maintenance requests (no subscription or setup fees for landlords) |
+| **[Propertyware](https://www.propertyware.com/)** | Property management platform especially strong for single-family and scattered-site residential portfolios. | Starts at **$1.00/unit/month** with a **$250/month minimum** fee (Basic plan; Plus from $1.50/unit with $350/mo min; Premium from $2.00/unit with $450/mo min) | No free forever plan; offers **sales-coordinated limited-access free test drive / trial** (no credit card required, duration set upon consultation) and live guided demos |
 
 
 
