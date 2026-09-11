@@ -45,6 +45,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
+- [Star History](#star-history)
+
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
@@ -137,6 +139,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 **Frameworks for building custom systems**: Self-host an open property manager (OpenProperty or equivalent) → manage units, leases, and tenants → handle rent tracking and basic work orders → integrate external payment and screening services → report to owners via exports or simple dashboards. This works for small to mid-sized portfolios with technical capacity. Commercial platforms (Buildium, AppFolio, DoorLoop, Yardi Breeze, Propertyware, TenantCloud, etc.) remain the practical choice for most professional managers who need reliability, compliance features, and support without heavy custom development.
+
+
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Rental-Property-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Rental-Property-Management&type=date&legend=top-left)
 
 
 
