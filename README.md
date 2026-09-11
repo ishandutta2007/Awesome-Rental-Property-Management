@@ -40,6 +40,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Overview:** The global rental property management software market is currently estimated at **$2.4B – $3.2B** (projected to surpass $5B+ by 2034 at a 7–9% CAGR; broader property management software ecosystem ~$10B–$15B). The industry is **moderately fragmented** rather than a single winner-take-all monopoly: while an established tier of enterprise incumbents (RealPage, Yardi Systems, AppFolio) captures the institutional segment (~34% top-3 market share), intense fragmentation persists across independent landlords, mid-market portfolios, and modern cloud challengers.
+
 | Platform | Company Size (Valuation / Revenue) | Description / Focus | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Avail (by Realtor.com)](https://www.avail.co/)** | **~$16B+ Market Cap** (Parent: News Corp / Move, Inc.; ~$650M division revenue) | Landlord-focused platform offering listing, screening, rent collection, and lease tools, popular with smaller portfolios. | **$0/month** (Unlimited plan); **$9/unit/month** (Unlimited Plus plan for waived tenant ACH fees, FastPay next-day rent, and custom leases) | **Free forever "Unlimited" plan** with unlimited units, listings syndication, standard leases, and maintenance tracking ($2.50 ACH fee per transaction paid by tenant) |
