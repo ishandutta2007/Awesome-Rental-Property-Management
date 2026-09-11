@@ -59,63 +59,53 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[OpenProperty](https://github.com/clawnify/OpenProperty)**  
+- **[QloApps](https://github.com/Qloapps/QloApps)** [![GitHub stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social&color=white)](https://github.com/Qloapps/QloApps/stargazers)  
+  Comprehensive open-source Property Management System (PMS), reservation engine, and booking platform for hospitality, serviced apartments, and multi-unit rental management.
 
-  Open-source, self-hosted property management software positioned as an alternative for units, tenants, leases, rent collection, and maintenance work orders.
+- **[Microrealestate](https://github.com/microrealestate/microrealestate)** [![GitHub stars](https://img.shields.io/github/stars/microrealestate/microrealestate?style=social&color=white)](https://github.com/microrealestate/microrealestate/stargazers)  
+  Modern, self-hosted open-source rental property management web application designed for independent landlords to automate leases, track rent payments, and generate invoices/receipts.
 
+- **[MicroCommunity](https://github.com/java110/MicroCommunity)** [![GitHub stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers)  
+  Full-featured open-source Java-based property management SaaS platform supporting multi-tenant community management, property fees, owner portals, and repair orders.
 
+- **[Property Web Builder](https://github.com/etewiah/property_web_builder)** [![GitHub stars](https://img.shields.io/github/stars/etewiah/property_web_builder?style=social&color=white)](https://github.com/etewiah/property_web_builder/stargazers)  
+  Open-source Ruby on Rails engine for building property management platforms, rental directories, and real estate marketing sites in minutes.
 
-- **[Microrealestate](https://github.com/)**  
+- **[Condo](https://github.com/open-condo-software/condo)** [![GitHub stars](https://img.shields.io/github/stars/open-condo-software/condo?style=social&color=white)](https://github.com/open-condo-software/condo/stargazers)  
+  Modern open-source property management SaaS platform enabling property managers to handle work order tickets, resident directories, payment tracking, invoicing, and modular mini-app integrations.
 
-  Open-source landlord / property management platform (one of the higher-starred projects in the space) for managing rental properties and tenants.
+- **[Movin' In](https://github.com/aelassas/movinin)** [![GitHub stars](https://img.shields.io/github/stars/aelassas/movinin?style=social&color=white)](https://github.com/aelassas/movinin/stargazers)  
+  Full-stack rental property management platform featuring a dedicated mobile tenant application, administrative dashboard, and native Stripe & PayPal payment gateways.
 
+- **[Online Rental Property Manager](https://github.com/bigprof-software/online-rental-property-manager)** [![GitHub stars](https://img.shields.io/github/stars/bigprof-software/online-rental-property-manager?style=social&color=white)](https://github.com/bigprof-software/online-rental-property-manager/stargazers)  
+  Web-based property management system for independent landlords to organize portfolios, rental units, tenant profiles, rental applications, and lease tracking.
 
+- **[OpenKos](https://github.com/senatroxx/OpenKos)** [![GitHub stars](https://img.shields.io/github/stars/senatroxx/OpenKos?style=social&color=white)](https://github.com/senatroxx/OpenKos/stargazers)  
+  Open-source property management system built for residential rentals, apartments, and boarding houses, providing automated tenant invoicing and lease scheduling.
 
-- **[Condo and related open property SaaS projects](https://github.com/)**  
+- **[SweetHome](https://github.com/Jubilee101/SweetHome)** [![GitHub stars](https://img.shields.io/github/stars/Jubilee101/SweetHome?style=social&color=white)](https://github.com/Jubilee101/SweetHome/stargazers)  
+  Residential property management system focused on bridging communication, work requests, and lease administration between landlords and occupants.
 
-  Actively developed open-source efforts aimed at property and multi-unit management with modern stacks.
+- **[Property Plus](https://github.com/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System?style=social&color=white)](https://github.com/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System/stargazers)  
+  Full-stack MERN real estate and rental management platform with in-app owner-tenant messaging, digital rent registration, and lease contract tracking.
 
+- **[Utility Billing & Property Management](https://github.com/navariltd/utility-billing)** [![GitHub stars](https://img.shields.io/github/stars/navariltd/utility-billing?style=social&color=white)](https://github.com/navariltd/utility-billing/stargazers)  
+  Enterprise open-source property management and utility billing application built on ERPNext for managing residential leases, submetering, and recurring rent collection.
 
+- **[Louez](https://github.com/Synapsr/Louez)** [![GitHub stars](https://img.shields.io/github/stars/Synapsr/Louez?style=social&color=white)](https://github.com/Synapsr/Louez/stargazers)  
+  Open-source Next.js/TypeScript rental platform for managing rental inventory, reservations, customer portals, and legal contract generation.
 
-- **[Online Rental Property Manager (bigprof and similar)](https://github.com/)**  
+- **[LibreProperty](https://github.com/LibreProperty/LibreProperty)** [![GitHub stars](https://img.shields.io/github/stars/LibreProperty/LibreProperty?style=social&color=white)](https://github.com/LibreProperty/LibreProperty/stargazers)  
+  Open-source property management software designed for rental portfolios, unit scheduling, booking calendars, and lease management.
 
-  Long-running open-source rental property management tools with basic portfolio, tenant, and lease tracking.
+- **[Odoo Real Estate (OCA)](https://github.com/OCA/vertical-realestate)** [![GitHub stars](https://img.shields.io/github/stars/OCA/vertical-realestate?style=social&color=white)](https://github.com/OCA/vertical-realestate/stargazers)  
+  Official Odoo Community Association (OCA) suite of modules extending Odoo ERP with property ownership, lease accounting, and rental management capabilities.
 
+- **[OpenProperty](https://github.com/clawnify/OpenProperty)** [![GitHub stars](https://img.shields.io/github/stars/clawnify/OpenProperty?style=social&color=white)](https://github.com/clawnify/OpenProperty/stargazers)  
+  Open-source, self-hosted property management software created as an alternative to commercial SaaS for tracking units, tenants, leases, rent collection, and maintenance work orders.
 
-
-- **[Odoo Property / Real Estate modules](https://github.com/odoo)**  
-
-  Community and enterprise modules that extend Odoo ERP for real-estate and rental management workflows.
-
-
-
-- **[Short-term rental open tools (RentTools.io and similar)](https://github.com/)**  
-
-  Open-source projects focused on calendar sync, multi-platform listing management, and operations for vacation/Airbnb-style rentals.
-
-
-
-- **[Kamra PMS and hospitality-oriented open PMS](https://github.com/)**  
-
-  Open-source property management systems primarily for hotels and vacation rentals that can be adapted for longer-term use cases.
-
-
-
-- **[Custom Laravel / PHP rental managers](https://github.com/)**  
-
-  Community projects offering tenant portals, lease tracking, and basic accounting for self-hosted deployments.
-
-
-
-- **[Maintenance and work-order open trackers](https://github.com/)**  
-
-  Lightweight open tools that can be integrated into a broader DIY property management stack.
-
-
-
-- **[Document and lease template open systems](https://github.com/)**  
-
-  Knowledge-base or document platforms used to manage leases, notices, and owner reports alongside other tools.
+- **[ImmiQ](https://github.com/SuperLonci/ImmiQ)** [![GitHub stars](https://img.shields.io/github/stars/SuperLonci/ImmiQ?style=social&color=white)](https://github.com/SuperLonci/ImmiQ/stargazers)  
+  Lightweight property and tenant management tool helping property owners monitor rental payments, manage lease files, and track maintenance issues.
 
 
 
