@@ -1,5 +1,9 @@
 # Awesome-Rental-Property-Management
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Rental Property Management Banner" width="100%"/>
+</p>
+
 ## Top Rental Property Management Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
